@@ -23,6 +23,24 @@
         "id": "https://JMU-AudiAnnotate.github.io/FF143/sonia-sanchez-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2362,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF143/annotations/sonia-sanchez-interview-canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF143/annotations/sonia-sanchez-interview-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FF143/sonia-sanchez-interview/canvas-1/paintings",
