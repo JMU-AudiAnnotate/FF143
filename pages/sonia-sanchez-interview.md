@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Sonia Sanchez Interview
 manifest_name: sonia-sanchez-interview
 permalink: sonia-sanchez-interview
